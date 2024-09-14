@@ -4,4 +4,4 @@
 📚 Estou graduando na Universidade Estadual do Centro-Oeste, Paraná <br/>
 💪 Atualmente estou aprendendo sobre aprendizado de máquina <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyjinkings&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyjinkings&show_icons=true&theme=dark)
